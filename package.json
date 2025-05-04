@@ -20,6 +20,7 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
+    "@nintex/form-plugin-contract": "^1.0.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-to-webcomponent": "^2.0.0-alpha.0"

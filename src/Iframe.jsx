@@ -1,7 +1,7 @@
 export const IFrame = ({
   name = "wikipedia",
   title = "Wikipedia",
-  src = "https://www.wikipedia.org/",
+  src = "https://wema-hq-bpms-dt.wemabank.local/Runtime/Runtime/View/K2+Workdesk+Menu/",
   height = "100%",
 }) => {
   const styles = `
